@@ -2,7 +2,7 @@
 
 # Submission Analisis Data E-Commerce
 
-#### Streamlit Cloud demo : [[Dashboard E-Commerce](https://dashbordreynaldy.streamlit.app/)](https://dashbordecomrey.streamlit.app/)
+#### Streamlit Cloud demo : [[Dashboard E-Commerce](https://dashbordreynaldy.streamlit.app/)]
 
 ### Install
 
