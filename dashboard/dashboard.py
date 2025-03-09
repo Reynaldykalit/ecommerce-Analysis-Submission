@@ -41,6 +41,7 @@ def create_top_categories_by_state_df(df, top_n=5):
 main_df = pd.read_csv("dashboard/Main_data.csv")
 
 
+
 # Konversi format datetime
 if "order_purchase_timestamp" in main_df.columns:
     main_df["order_purchase_timestamp"] = pd.to_datetime(main_df["order_purchase_timestamp"], errors='coerce')
@@ -53,8 +54,8 @@ main_df.set_index("order_purchase_timestamp", inplace=True)
 
 with st.sidebar:
 
-    st.image("icons.jpeg", width=200)
-    
+    st.image("dashboard/icons.jpeg", width=200)
+
     st.title("Informasi:")
     st.markdown("### Nama : Reynaldy Simanungkalit")
     st.title("⚙️ Filter Dashboard")
