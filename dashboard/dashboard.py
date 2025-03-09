@@ -160,3 +160,5 @@ ax.set_xlabel("Jumlah Pesanan", fontsize=12)
 ax.set_ylabel("Negara Bagian", fontsize=12)
 ax.tick_params(axis='y', labelsize=12)
 st.pyplot(fig)
+
+st.caption("© 2025 Reynaldy.")
