@@ -38,7 +38,7 @@ def create_top_categories_by_state_df(df, top_n=5):
     top_categories_by_state_df.to_csv("top_categories_by_state.csv", index=False)
     return top_categories_by_state_df
 
-main_df = pd.read_csv("Main_data.csv")
+main_df = pd.read_csv("dashboard/Main_data.csv")
 
 
 # Konversi format datetime
