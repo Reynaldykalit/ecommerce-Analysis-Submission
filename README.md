@@ -9,7 +9,7 @@
 #### Clone repostory:
 
 ```bash
-https://github.com/Reynaldykalit/ecommerce-Analysis.git
+[https://github.com/Reynaldykalit/ecommerce-Analysis.git](https://github.com/Reynaldykalit/ecommerce-Analysis-Submission.git)
 
 
 ```
